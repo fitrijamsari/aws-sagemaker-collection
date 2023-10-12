@@ -1,0 +1,15 @@
+# Mac OS folder index
+.DS_Store
+
+# LaTeX collateral
+*.aux
+*.synctex.gz
+*.log
+*.bbl
+*.blg
+*.dvi
+*.out
+
+# Python
+*.pyc
+__pycache__
