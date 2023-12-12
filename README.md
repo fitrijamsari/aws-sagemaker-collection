@@ -11,5 +11,3 @@ Note: This repositories might come from various sources and adjusted to my use c
 
 ## Sources
 
-Udemy:https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/?referralCode=9ADB4395937F7D656EB9  
-AWS Documentation:
